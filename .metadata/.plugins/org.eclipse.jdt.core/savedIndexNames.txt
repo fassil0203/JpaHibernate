@@ -1,0 +1,23 @@
+INDEX VERSION 1.134+C:\Users\Rafael\Desktop\Revisao_Java\Alura\07 Hibernate JPa\.metadata\.plugins\org.eclipse.jdt.core
+4049487702.index
+3343504793.index
+3233472698.index
+3802787931.index
+1865797976.index
+3828373194.index
+3276005672.index
+658906078.index
+1716437882.index
+1161353812.index
+867604927.index
+76742871.index
+868970525.index
+1032573536.index
+307833887.index
+1484645245.index
+3263932686.index
+1274731230.index
+1840240982.index
+2920161834.index
+2304949370.index
+2377668132.index
